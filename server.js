@@ -1,10 +1,11 @@
 const express = require('express');
 const express_graphql = require('express-graphql');
 const { buildSchema } = require('graphql');
+const os = require('os');
 const cors = require('cors');
 const quotesMockDataJSON = require('./quotes.mock.json');
+const PORT = 8080;
 var quotesMockData = quotesMockDataJSON.quotes;
-
 // GraphQL schema
 const schema = buildSchema(`
     type Query {
@@ -78,4 +79,4 @@ app.use('/graphql', express_graphql({
     rootValue: root,
     graphiql: true
 }));
-app.listen(4000, () => console.log('Express GraphQL Server Now Running On localhost:4000/graphql'));
+app.listen(PORT, () => console.log(`Express GraphQL Server Now Running On ${os.hostname()}:${8080}/graphql`));
