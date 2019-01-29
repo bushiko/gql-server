@@ -1,0 +1,54 @@
+
+{
+    "quotes":[
+    {
+        "id": 1,
+        "appearsIn": "Angel-A",
+        "author": "",
+        "content": "Me amó así como era y eso que no era gran cosa.",
+        "image": "https://thekrutch.files.wordpress.com/2016/11/tumblr_morh01on8y1sug4g8o1_500.gif",
+        "source": "MOVIE"
+    }, 
+    {
+        "id": 2,
+        "appearsIn": "Buena caza",
+        "author": "Ken Liu",
+        "content": "Juzgar es un lujo que solo se pueden permitir quienes no necesitan sobrevivir.",
+        "source": "BOOK"
+    }, 
+    {
+        "id": 3,
+        "appearsIn": "La casa de papel",
+        "author": "",
+        "content": "Al fin y al cabo el amor es una buena razón para que todas las cosas fallen.",
+        "source": "TV"
+    }, 
+    {
+        "id": 4,
+        "appearsIn": "La vida de las flores es corta",
+        "author": "Fukushima Masami",
+        "content": "A mi edad, quizá incluso el corazón empieza a sentirse cansado.",
+        "source": "BOOK"
+    }, 
+    {
+        "id": 5,
+        "appearsIn": "El hombre duplicado",
+        "author": "Jose Saramago",
+        "content": "Probablemente, leer es también una forma de estar ahí.",
+        "source": "BOOK"
+    },
+    {
+        "id": 6,
+        "appearsIn": "Algoritmos para el amor",
+        "author": "Ken Liu",
+        "content": "A veces lo vulgar es la mejor medicina.",
+        "source": "BOOK"
+    },
+    {
+        "id": 7,
+        "appearsIn": "Algoritmos para el amor",
+        "author": "Ken Liu",
+        "content": "Los algoritmos seguían su curso determinado y nuestros pensamientos se sucedían uno tras otro, tan mecánicos y predecibles como los planetas en sus órbitas. El relojero era el reloj.",
+        "source": "BOOK"
+    }
+]}
