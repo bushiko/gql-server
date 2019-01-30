@@ -3,52 +3,114 @@
     "quotes":[
     {
         "id": 1,
-        "appearsIn": "Angel-A",
-        "author": "",
-        "content": "Me amó así como era y eso que no era gran cosa.",
-        "image": "https://thekrutch.files.wordpress.com/2016/11/tumblr_morh01on8y1sug4g8o1_500.gif",
-        "source": "MOVIE"
+        "appearsIn": "La Isla",
+        "author": "Aldous Huxley",
+        "content": "No había más que ese dolor, como el dolor de un miembro fantasmal que continúa obsesionado la imaginación.",
+        "image": "",
+        "source": "BOOK"
     }, 
     {
         "id": 2,
-        "appearsIn": "Buena caza",
-        "author": "Ken Liu",
-        "content": "Juzgar es un lujo que solo se pueden permitir quienes no necesitan sobrevivir.",
+        "appearsIn": "La Isla",
+        "author": "Aldous Huxley",
+        "content": "Producción en masa, matanza en masa, comunicación en masa y, por sobre todo, masa a secas...",
+        "image": "",
         "source": "BOOK"
     }, 
     {
         "id": 3,
-        "appearsIn": "La casa de papel",
-        "author": "",
-        "content": "Al fin y al cabo el amor es una buena razón para que todas las cosas fallen.",
-        "source": "TV"
+        "appearsIn": "La Isla",
+        "author": "Aldous Huxley",
+        "content": "En su mundo, uno está absolutamente solo, solo aún en el placer compartido en forma más total.",
+        "image": "",
+        "source": "BOOK"
     }, 
     {
         "id": 4,
-        "appearsIn": "La vida de las flores es corta",
-        "author": "Fukushima Masami",
-        "content": "A mi edad, quizá incluso el corazón empieza a sentirse cansado.",
+        "appearsIn": "La Isla",
+        "author": "Aldous Huxley",
+        "content": "La conciencia de que uno existía era la conciencia de que uno estaba siempre solo.",
+        "image": "",
         "source": "BOOK"
     }, 
     {
         "id": 5,
-        "appearsIn": "El hombre duplicado",
-        "author": "Jose Saramago",
-        "content": "Probablemente, leer es también una forma de estar ahí.",
-        "source": "BOOK"
-    },
+        "appearsIn": "Dr Who",
+        "author": "Elton",
+        "content": "We forget because we must.",
+        "image": "",
+        "source": "TV"
+    }, 
     {
         "id": 6,
-        "appearsIn": "Algoritmos para el amor",
-        "author": "Ken Liu",
-        "content": "A veces lo vulgar es la mejor medicina.",
-        "source": "BOOK"
-    },
+        "appearsIn": "Dr Who",
+        "author": "12th Doctor",
+        "content": "Pain is a gift. Without the capacity for pain we can't feel the hurt we inflict.",
+        "image": "",
+        "source": "TV"
+    }, 
     {
         "id": 7,
-        "appearsIn": "Algoritmos para el amor",
-        "author": "Ken Liu",
-        "content": "Los algoritmos seguían su curso determinado y nuestros pensamientos se sucedían uno tras otro, tan mecánicos y predecibles como los planetas en sus órbitas. El relojero era el reloj.",
+        "appearsIn": "Dr Who",
+        "author": "12th Doctor",
+        "content": "Nada es triste hasta que se acaba. Entonces, todo lo es.",
+        "image": "",
+        "source": "TV"
+    }, 
+    {
+        "id": 8,
+        "appearsIn": "Dr Who",
+        "author": "12th Doctor",
+        "content": "Stories are where memories go when they're forgotten.",
+        "image": "https://68.media.tumblr.com/84aeb500f572cba285cbb4db91b35fec/tumblr_o9rsoqNZi71te39fco1_500.gif",
+        "source": "TV"
+    }, 
+    {
+        "id": 9,
+        "appearsIn": "El juego de Ender",
+        "author": "Orson Scott Card",
+        "content": "Una persona decente que conozca el arte de la guerra no va a la batalla con un corazón entero.",
+        "image": "",
+        "source": "BOOK"
+    }, 
+    {
+        "id": 10,
+        "appearsIn": "El juego de Ender",
+        "author": "Orson Scott Card",
+        "content": "-Tenemos que irnos. Aquí soy casi feliz.\n\r-Quédate entonces.\n\r-He vivido demasiado tiempo con el dolor. Sin él, no sabré quién soy.",
+        "image": "",
+        "source": "BOOK"
+    }, 
+    {
+        "id": 11,
+        "appearsIn": "Tokyo Blues",
+        "author": "Haruki Murakami",
+        "content": "¿Te acordarás siempre de que existo y de que he estado a tu lado? ",
+        "image": "",
+        "source": "BOOK"
+    }, 
+    {
+        "id": 12,
+        "appearsIn": "Tokyo Blues",
+        "author": "Haruki Murakami",
+        "content": "Tal vez mi corazón esté recubierto por una coraza y sea imposible atravesarla. Por eso no puedo querer a nadie.",
+        "image": "",
+        "source": "BOOK"
+    }, 
+    {
+        "id": 13,
+        "appearsIn": "Tokyo Blues",
+        "author": "Haruki Murakami",
+        "content": "Sólo aspirando la fragancia de un libro, tocando sus páginas, me sentía feliz. ",
+        "image": "",
+        "source": "BOOK"
+    }, 
+    {
+        "id": 14,
+        "appearsIn": "Tokyo Blues",
+        "author": "Haruki Murakami",
+        "content": "私のこと覚えていてほしいの",
+        "image": "",
         "source": "BOOK"
     }
 ]}

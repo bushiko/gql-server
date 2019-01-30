@@ -5,12 +5,14 @@ const os = require('os');
 const cors = require('cors');
 const quotesMockDataJSON = require('./quotes.mock.json');
 const PORT = 8080;
-var quotesMockData = quotesMockDataJSON.quotes;
+var quotesMockData = quotesMockDataJSON.quotes.reverse();
+
 // GraphQL schema
 const schema = buildSchema(`
     type Query {
         quoteById(id: Int!): Quote
-        paginatedQuotes(first: Int, offset: Int, appearsIn: String, author: String, source: String): PaginatedResult
+        paginatedQuotes(first: Int, offset: Int, 
+            appearsIn: String, author: String, source: Source): PaginatedResult
     },
     type PaginatedResult {
         quotes: [Quote]
